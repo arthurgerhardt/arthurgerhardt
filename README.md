@@ -1,5 +1,9 @@
-### Hi there 👋
-
+###  🌱 I’m currently learning ...
+# Arthur's Repository
+~
+My new repository on GitHub.
+I am creating this, with help of Rocketseat course website.
+Now I can share all my programs and my web site on GitHub!
 <!--
 **arthurgerhardt/arthurgerhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
