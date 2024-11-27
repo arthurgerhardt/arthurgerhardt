@@ -6,7 +6,7 @@ I'm creating this with the help of the Rocketseat course website.
 Now I can share all my programs and my website on GitHub!
 
 - 🔭 I'm currently working on... at InfoGe
-- 🌱 I currently have a degree in Computer Science and learning how to code, HTML, CSS, JavaScript, Java, Go and Python.
+- 🌱 I currently have a degree in Computer Science and learning how to code, HTML, CSS, JavaScript, Java, Go, Swift, C# and Python.
 - 👯 I plan to collaborate on... with GitHub
 - 🤔 I'm looking for help with... my projects
 - 💬 Ask me about... My skills
